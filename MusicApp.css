@@ -1,5 +1,8 @@
 body{
-	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/b6/c8/ab/b6c8ab642d20ce6d4aedba10a6d3ddc1.jpg");
+	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/03/2f/74/032f740d9c1e68b9bfdd2cbeeaf21b88.jpg");
+}
+p.MusicApp{
+	color:yellow;
 }
 button#deathcab{
 	width:200px;
@@ -10,8 +13,12 @@ button#sleeping{
 	height:200px;
 }
 button#am-i-wrong{
-	width:100px;
-	height:100px;
+	width:200px;
+	height:200px;
+}
+button#want-to-want-me{
+	width:200px;
+	height:200px;
 }
 
 
