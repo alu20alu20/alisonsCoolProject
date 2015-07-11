@@ -3,7 +3,9 @@ body{
 }
 p.MusicApp{
 	color:blue;
-	text-align: center
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Bigelow Rules', cursive;
 }
 button#deathcab{
 	width:200px;
