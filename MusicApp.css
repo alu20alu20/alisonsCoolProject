@@ -2,7 +2,8 @@ body{
 	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/03/2f/74/032f740d9c1e68b9bfdd2cbeeaf21b88.jpg");
 }
 p.MusicApp{
-	color:yellow;
+	color:blue;
+	text-align: center
 }
 button#deathcab{
 	width:200px;
