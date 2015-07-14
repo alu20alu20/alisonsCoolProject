@@ -1,11 +1,11 @@
 body{
-	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/03/2f/74/032f740d9c1e68b9bfdd2cbeeaf21b88.jpg");
+	background-image: url("http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0106/2654/rrrchev_butter_mirror_preview.png");
 }
 p.MusicApp{
-	color:#852A9C;
+	color:#E34DC5;
 	text-align: center;
 	font-size: 60px;
-	text-shadow: 3px 3px aqua;
+	text-shadow: 3px 3px #9802C2;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
 button#deathcab{
@@ -24,8 +24,10 @@ button#want-to-want-me{
 	width:200px;
 	height:200px;
 }
-
-
+ul
+{
+list-style-type: none;
+}
 
 
 
