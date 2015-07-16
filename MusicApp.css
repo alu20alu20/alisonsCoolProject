@@ -8,17 +8,24 @@ p.MusicApp{
 	text-shadow: 3px 3px aqua;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
+div#musicdiv{
+	
+}
+
 button#deathcab{
 	width:200px;
 	height:200px;
+	float:left;
 }
 button#sleeping{
 	width:200px;
 	height:200px;
+	
 }
 button#am-i-wrong{
 	width:200px;
 	height:200px;
+
 }
 button#want-to-want-me{
 	width:200px;
