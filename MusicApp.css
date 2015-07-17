@@ -20,17 +20,19 @@ button#dcdiv{
 	float:left;
 }
 button#sleeping{
-	margin-right:100px;
 	width:200px;
 	height:200px;
-	
-
-	
 }
 button#sdiv{
 	float:left;
+
+
 }
-#am-i-wrong{
+button#am-i-wrong{
 	height:200px;
 	width:200px;
 }
+button#aiwdiv{
+	float:left;
+}
+
