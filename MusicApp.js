@@ -7,5 +7,6 @@ $('#sleeping').click(function() {
 });
 
 $('#am-i-wrong').click(function() {
+	alert('hi')
     $('#aiwsound').get(0).paused ? $('#aiwsound').get(0).play() : $('#aiwsound').get(0).pause();
 });
