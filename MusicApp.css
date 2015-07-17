@@ -15,9 +15,6 @@ div#background{
 button#deathcab{
 	width:200px;
 	height:200px;
-	position:absolute;
-
-	margin-left:100px;
 }
 button#dcdiv{
 	float:left;
@@ -26,7 +23,7 @@ button#sleeping{
 	margin-right:100px;
 	width:200px;
 	height:200px;
-	position:absolute;
+	
 
 	
 }
@@ -36,19 +33,4 @@ button#sdiv{
 #am-i-wrong{
 	height:200px;
 	width:200px;
-	position:absolute;
-	margin-left: 80%;
 }
-
-}
-button#cwddiv{
-	float:left;
-}
-#canwedance{
-	height:200px;
-	width:200px;
-	position:absolute;
-	margin-left: 80%;
-}
-
-

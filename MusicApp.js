@@ -9,7 +9,3 @@ $('#sleeping').click(function() {
 $('#am-i-wrong').click(function() {
     $('#aiwsound').get(0).paused ? $('#aiwsound').get(0).play() : $('#aiwsound').get(0).pause();
 });
-
-$('#canwedance').click(function() {
-    $('#cwdsound').get(0).paused ? $('cwdsound').get(0).play() : $('#cwdsound').get(0).pause();
-});
