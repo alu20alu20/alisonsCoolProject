@@ -21,6 +21,7 @@ button#dcdiv{
 	float:left;
 }
 button#sleeping{
+	margin-left:100px;
 	width:200px;
 	height:200px;
 	
@@ -32,14 +33,6 @@ button#am-i-wrong{
 	width:200px;
 	height:200px;
 
-}
-button#want-to-want-me{
-	width:200px;
-	height:200px;
-}
-ul
-{
-list-style-type: none;
 }
 
 
