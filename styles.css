@@ -8,47 +8,26 @@ p.MusicApp{
 	text-shadow: 3px 3px aqua;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
-div#background{
-	position: relative;
-}
-
 button#deathcab{
 	width:200px;
 	height:200px;
-	position:absolute;
-
-	margin-left:100px;
-}
-button#dcdiv{
-	float:left;
 }
 button#sleeping{
-	margin-right:100px;
 	width:200px;
 	height:200px;
-	position:absolute;
+}
+button#am-i-wrong{
+	width:200px;
+	height:200px;
+}
+button#want-to-want-me{
+	width:200px;
+	height:200px;
+}
+ul
+{
+list-style-type: none;
+}
 
-	
-}
-button#sdiv{
-	float:left;
-}
-#am-i-wrong{
-	height:200px;
-	width:200px;
-	position:absolute;
-	margin-left: 80%;
-}
-
-}
-button#cwddiv{
-	float:left;
-}
-#canwedance{
-	height:200px;
-	width:200px;
-	position:absolute;
-	margin-left: 80%;
-}
 
 
