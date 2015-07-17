@@ -8,31 +8,36 @@ p.MusicApp{
 	text-shadow: 3px 3px aqua;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
-div#musicdiv{
-
+div#background{
+	position: relative;
 }
 
 button#deathcab{
 	width:200px;
 	height:200px;
-	
+	position:absolute;
+
+	margin-left:100px;
 }
 button#dcdiv{
 	float:left;
 }
 button#sleeping{
-	margin-left:100px;
+	margin-right:100px;
 	width:200px;
 	height:200px;
+	position:absolute;
+
 	
 }
 button#sdiv{
 	float:left;
 }
-button#am-i-wrong{
-	width:200px;
+#am-i-wrong{
 	height:200px;
-
+	width:200px;
+	position:absolute;
+	margin-left: 80%;
 }
 
 
